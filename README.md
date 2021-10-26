@@ -79,4 +79,3 @@ Then, we had to make a diagram model of our database on the MySQL Workbench soft
 </p>
 
 
-
