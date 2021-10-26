@@ -69,7 +69,8 @@ In order to represent some queries of the statistic management, we decided to re
 
 # SQL Queries
 Finally, we decided to make all the statistic queries that the travel agency whished. Indeed, after filling some fields of our database, we decided to test all the statistic queries to see if they were functional.After this step, we also decided to create a user on the localhost who will be able to connect and have all privilegies on the database as expected in the subject.\
-_**(cf Statistic Queries https://github.com/Ev0gs/Data-modeling-project/blob/main/SQL%20Queries/SQL%20Statistic%20Queries.sql)**_
+* (cf Statistic Queries https://github.com/Ev0gs/Data-modeling-project/blob/main/SQL%20Queries/SQL%20Statistic%20Queries.sql)
+* (cf User Creation Queries https://github.com/Ev0gs/Data-modeling-project/blob/main/SQL%20Queries/SQL%20User%20Creation%20Queries.sql)
 
 Then, we had to make a diagram model of our database on the MySQL Workbench software as you can see on the picture following:
 
